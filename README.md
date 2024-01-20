@@ -1,4 +1,4 @@
-# Brnaco_Weapons
+# Branco_Weapons
 qb-core Weapon modifier and recoil
 
 Guide
